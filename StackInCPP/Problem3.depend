@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1554928491 source:e:\fci\second year\second term\data structure\assignments\assignment3\problem3\main.cpp
+	<iostream>
+	<Stack.h>
+
+1554928491 e:\fci\second year\second term\data structure\assignments\assignment3\problem3\include\stack.h
+	<iostream>
+
+1554929500 source:e:\fci\second year\second term\data structure\assignments\assignment3\problem3\src\stack.cpp
+	"Stack.h"
+
+1555348998 source:c:\users\top\desktop\a3_20170331_20170204_20170178_g18_g19\a3_p3_20170331_20170204_20170178_g18_g19\main.cpp
+	<iostream>
+	<Stack.h>
+
+1554928492 c:\users\top\desktop\a3_20170331_20170204_20170178_g18_g19\a3_p3_20170331_20170204_20170178_g18_g19\include\stack.h
+	<iostream>
+
+1554929502 source:c:\users\top\desktop\a3_20170331_20170204_20170178_g18_g19\a3_p3_20170331_20170204_20170178_g18_g19\src\stack.cpp
+	"Stack.h"
+
+1555348998 source:e:\fci\second year\second term\data structure\assignments\a3_20170331_20170204_20170178_g18_g19\a3_p3_20170331_20170204_20170178_g18_g19\main.cpp
+	<iostream>
+	<Stack.h>
+
+1556597471 e:\fci\second year\second term\data structure\assignments\a3_20170331_20170204_20170178_g18_g19\a3_p3_20170331_20170204_20170178_g18_g19\include\stack.h
+	<iostream>
+
+1556597471 source:e:\fci\second year\second term\data structure\assignments\a3_20170331_20170204_20170178_g18_g19\a3_p3_20170331_20170204_20170178_g18_g19\src\stack.cpp
+	"Stack.h"
+
